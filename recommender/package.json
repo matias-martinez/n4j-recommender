@@ -1,0 +1,36 @@
+{
+  "name": "n4j-recommender",
+  "version": "1.0.0",
+  "description": "Product recommendation using a graph",
+  "main": "index.js",
+  "scripts": {
+    "build-neo4j-test": "sudo docker build -t n4j-recommender/test -f ./Dockerfile.test .",
+    "run-neo4j-test": "sudo docker run --publish=7474:7474 --publish=7687:7687 n4j-recommender/test",
+    "build-and-run": "npm run build-neo4j-test && npm run run-neo4j-test",
+    "load-neo4j-test": "node test/resources/ingestor.js",
+    "lint": "eslint .",
+    "test": "jest"
+  },
+  "dependencies": {
+    "dotenv": "^6.1.0",
+    "neode": "^0.2.10"
+  },
+  "devDependencies": {
+    "eslint": "^5.10.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "jest": "23.6.0",
+    "pre-commit": "^1.2.2"
+  },
+  "precommit": [
+    "eslint"
+  ],
+  "keywords": [
+    "neo4j",
+    "recommendation",
+    "firebase",
+    "analytics"
+  ],
+  "author": "matias-martinez",
+  "license": "ISC"
+}

@@ -1,0 +1,2041 @@
+{
+  "products": [
+    {
+      "ASTM": "",
+      "DIN": "",
+      "EN": "",
+      "GBTSHT": "",
+      "GOST": "",
+      "GPA": [
+        "GPA 2172",
+        " GPA 2177",
+        " GPA 2186",
+        " GPA 2261",
+        " GPA 2286"
+      ],
+      "IP": "",
+      "ISO": "",
+      "UOP": "",
+      "crmProduct": "GC Analyzers\n",
+      "description": "Universal Natural gas analyzer for multiple gpa methods, liquids and gas, extended and C6+ backflush",
+      "image": "https://firebasestorage.googleapis.com/v0/b/agilent-gc-standards.appspot.com/o/products%2F7890B-LVO-right.jpg?alt=media&token=a6c12f32-2580-44d8-93b2-91d6570cd47d",
+      "imageName": "7890B-LVO-right.jpg",
+      "industry": "NaturalGas",
+      "market": "Natural Gas Midstream",
+      "modelNumber": "7890-0678",
+      "supportingLiteratureLabel": "Analysis of Gas Liquids by GPA 2186 (PDF)",
+      "supportingLiteratureLink": "https://www.agilent.com/cs/library/applications/5991-5255EN.pdf"
+    },
+    {
+      "ASTM": "",
+      "DIN": "",
+      "EN": "",
+      "GBTSHT": "",
+      "GOST": "",
+      "GPA": [
+        "GPA 2286 (calculation without bridge compounds iC5 and nC5)"
+      ],
+      "IP": "",
+      "ISO": "",
+      "UOP": "",
+      "crmProduct": "GC Analyzers\n",
+      "description": "Extended Nat Gas Analyzer to C12",
+      "image": "https://firebasestorage.googleapis.com/v0/b/agilent-gc-standards.appspot.com/o/products%2F7890B-LVO-right.jpg?alt=media&token=a6c12f32-2580-44d8-93b2-91d6570cd47d",
+      "imageName": "7890B-LVO-right.jpg",
+      "industry": "NaturalGas",
+      "market": "E&P Natural Gas Upstream",
+      "modelNumber": "G3445B#541",
+      "supportingLiteratureLabel": "Universal Natural Gas Analyzer for Natural Gas and Natural Gas Liquids by Capillary Gas Chromatography, Available as a Preconfigured Agilent Technologies Analyzer (PDF)",
+      "supportingLiteratureLink": "https://www.agilent.com/cs/library/applications/5991-3610EN.pdf"
+    },
+    {
+      "ASTM": [
+        "ASTM D1945"
+      ],
+      "DIN": "",
+      "EN": "",
+      "GBTSHT": "",
+      "GOST": "",
+      "GPA": [
+        "GPA 2261 (H2 and He not included)"
+      ],
+      "IP": "",
+      "ISO": "",
+      "UOP": "",
+      "crmProduct": "GC Analyzers\n",
+      "description": "Natural Gas Analyzer ",
+      "image": "https://firebasestorage.googleapis.com/v0/b/agilent-gc-standards.appspot.com/o/products%2F7890B-LVO-right.jpg?alt=media&token=a6c12f32-2580-44d8-93b2-91d6570cd47d",
+      "imageName": "7890B-LVO-right.jpg",
+      "industry": "NaturalGas",
+      "market": "Natural Gas Midstream",
+      "modelNumber": "G3445B#542",
+      "supportingLiteratureLabel": "Agilent Natural Gas Analyzers flyer",
+      "supportingLiteratureLink": "https://www.agilent.com/cs/library/brochures/NGA%20analyzer%20portfolio%20flyer%20LR.pdf"
+    },
+    {
+      "ASTM": [
+        "ASTM D1945"
+      ],
+      "DIN": "",
+      "EN": "",
+      "GBTSHT": "",
+      "GOST": "",
+      "GPA": [
+        "GPA 2261"
+      ],
+      "IP": "",
+      "ISO": "",
+      "UOP": "",
+      "crmProduct": "GC Analyzers, Specials",
+      "description": "Dual channel Natural Gas Analyzer (NGA) with H2 and He capability ",
+      "image": "https://firebasestorage.googleapis.com/v0/b/agilent-gc-standards.appspot.com/o/products%2F7890B-LVO-right.jpg?alt=media&token=a6c12f32-2580-44d8-93b2-91d6570cd47d",
+      "imageName": "7890B-LVO-right.jpg",
+      "industry": "NaturalGas",
+      "market": "Natural Gas Midstream",
+      "modelNumber": "G3445B#543",
+      "supportingLiteratureLabel": "Dual-Channel Gas Chromatographic System for the Determination of Low-Level Sulfur in Hydrocarbon Gases (PDF)",
+      "supportingLiteratureLink": "https://www.agilent.com/cs/library/applications/5988-8904EN.pdf"
+    },
+    {
+      "ASTM": [
+        "ASTM D1945"
+      ],
+      "DIN": "",
+      "EN": "",
+      "GBTSHT": "",
+      "GOST": "",
+      "GPA": [
+        "GPA 2261"
+      ],
+      "IP": "",
+      "ISO": "",
+      "UOP": "",
+      "crmProduct": "GC Analyzers, Specials",
+      "description": "GPA 2261 Sour Natural Gas Analyzer ",
+      "image": "https://firebasestorage.googleapis.com/v0/b/agilent-gc-standards.appspot.com/o/products%2F7890B-LVO-right.jpg?alt=media&token=a6c12f32-2580-44d8-93b2-91d6570cd47d",
+      "imageName": "7890B-LVO-right.jpg",
+      "industry": "NaturalGas",
+      "market": "Natural Gas Midstream",
+      "modelNumber": "G3445B#544",
+      "supportingLiteratureLabel": "Agilent Natural Gas Analyzers flyer (PDF)",
+      "supportingLiteratureLink": "https://www.agilent.com/cs/library/brochures/NGA%20analyzer%20portfolio%20flyer%20LR.pdf"
+    },
+    {
+      "ASTM": [
+        "ASTM D1945"
+      ],
+      "DIN": "",
+      "EN": "",
+      "GBTSHT": "",
+      "GOST": "",
+      "GPA": [
+        "GPA 2261"
+      ],
+      "IP": "",
+      "ISO": "",
+      "UOP": "",
+      "crmProduct": "GC Analyzers, Specials",
+      "description": "3 channel Natural Gas Analyzer with Enhanced Hydrocarbon Detection ",
+      "image": "https://firebasestorage.googleapis.com/v0/b/agilent-gc-standards.appspot.com/o/products%2F240MS-7890GC_ELIBRARY_381877_2012.jpg?alt=media&token=66284a96-8956-4191-9043-5ae55695ac76",
+      "imageName": "240MS-7890GC_ELIBRARY_381877_2012.jpg",
+      "industry": "NaturalGas",
+      "market": "Natural Gas Midstream",
+      "modelNumber": "G3445B#547",
+      "supportingLiteratureLabel": "Parallel GC for Complete Refinery Gas Analysis (PDF)",
+      "supportingLiteratureLink": "https://www.agilent.com/cs/library/applications/5989-7437EN.pdf"
+    },
+    {
+      "ASTM": "",
+      "DIN": "",
+      "EN": "",
+      "GBTSHT": "",
+      "GOST": "",
+      "GPA": [
+        "GPA 2286 (calculation with bridge compounds iC5 and nC5)"
+      ],
+      "IP": "",
+      "ISO": "",
+      "UOP": "",
+      "crmProduct": "GC Analyzers\n",
+      "description": "Analyzer for GPA 2286",
+      "image": "https://firebasestorage.googleapis.com/v0/b/agilent-gc-standards.appspot.com/o/products%2F20170920-borrowedtimegc-7890b-en_global_Elibrary_622625.png?alt=media&token=12f2ad23-6183-4121-8e30-40110fbbb5d5",
+      "imageName": "20170920-borrowedtimegc-7890b-en_global_Elibrary_622625.png",
+      "industry": "NaturalGas",
+      "market": "E&P Natural Gas Upstream",
+      "modelNumber": "G3445B#548",
+      "supportingLiteratureLabel": "",
+      "supportingLiteratureLink": "https://www.agilent.com/cs/library/brochures/NGA%20analyzer%20portfolio%20flyer%20LR.pdf"
+    },
+    {
+      "ASTM": [
+        "ASTM D5504"
+      ],
+      "DIN": "",
+      "EN": "",
+      "GBTSHT": "",
+      "GOST": "",
+      "GPA": "",
+      "IP": "",
+      "ISO": "",
+      "UOP": "",
+      "crmProduct": "GC Analyzers\n",
+      "description": "Sulfur compounds in natural gas or gas fuels by GC-SCD ASTM D5504 ",
+      "image": "https://www.agilent.com/cs/publishingimages/7890B-7650-8355_1000x1000.jpg",
+      "imageName": "",
+      "industry": "NaturalGas",
+      "market": "Natural Gas Midstream",
+      "modelNumber": "G3445B#661",
+      "supportingLiteratureLabel": "Analysis of Sulfur Compounds in Petroleum Gases and Natural Gas (PDF)",
+      "supportingLiteratureLink": "https://www.agilent.com/cs/library/applications/5989-9234EN.pdf"
+    },
+    {
+      "ASTM": [
+        "ASTM D5623"
+      ],
+      "DIN": "",
+      "EN": "",
+      "GBTSHT": "",
+      "GOST": "",
+      "GPA": "",
+      "IP": "",
+      "ISO": "",
+      "UOP": [
+        "UOP 791"
+      ],
+      "crmProduct": "GC Analyzers, Specials",
+      "description": "Sulfur Comp. in Light Petroleum Liquids by GC-SCD ASTM D5623 ",
+      "image": "https://www.agilent.com/cs/publishingimages/7890B-7650-8355_1000x1000.jpg",
+      "imageName": "",
+      "industry": "NaturalGas",
+      "market": "Natural Gas Midstream",
+      "modelNumber": "G3445B#662",
+      "supportingLiteratureLabel": "Detection of Sulfur Compounds in Light Petroleum Liquids According\nto ASTM D5623 with the Agilent Dual Plasma Sulfur Chemiluminescence Detector and\nthe Agilent Intuvo 9000 GC",
+      "supportingLiteratureLink": ""
+    },
+    {
+      "ASTM": "",
+      "DIN": "",
+      "EN": "",
+      "GBTSHT": [
+        "GB/T13610"
+      ],
+      "GOST": "",
+      "GPA": "",
+      "IP": "",
+      "ISO": "",
+      "UOP": "",
+      "crmProduct": "GC Analyzers\n",
+      "description": "Dual channel natural gas analyzer (NGA) with H2 and He capability and percent level hydrogen sulfide",
+      "image": "https://firebasestorage.googleapis.com/v0/b/agilent-gc-standards.appspot.com/o/products%2F7890_GCG_490_w_sampler.jpg?alt=media&token=d9a13410-b2d3-4a93-8299-e4e18bbded61",
+      "imageName": "7890_GCG_490_w_sampler.jpg",
+      "industry": "NaturalGas",
+      "market": "Natural Gas Midstream",
+      "modelNumber": "7890-0581",
+      "supportingLiteratureLabel": "",
+      "supportingLiteratureLink": ""
+    },
+    {
+      "ASTM": [
+        "ASTM D3588"
+      ],
+      "DIN": "",
+      "EN": "",
+      "GBTSHT": "",
+      "GOST": [
+        "GOST 22667"
+      ],
+      "GPA": [
+        "GPA 2172"
+      ],
+      "IP": "",
+      "ISO": [
+        "ISO 6976"
+      ],
+      "UOP": "",
+      "crmProduct": "Micro GC, PRO Micro GC",
+      "description": "On-line Process Natural Gas Analyzer, Software PRO Option #005. Various channel and accessory options are available. ",
+      "image": "https://firebasestorage.googleapis.com/v0/b/agilent-gc-standards.appspot.com/o/products%2FMicroGC_rack.jpg?alt=media",
+      "imageName": "MicroGC_rack.jpg",
+      "industry": "NaturalGas",
+      "market": "Natural Gas Midstream",
+      "modelNumber": "G3581A Option #005",
+      "supportingLiteratureLabel": "Fast Analysis of Natural Gas Using the Agilent 490 Micro GC Natural Gas Analyzer",
+      "supportingLiteratureLink": "https://www.agilent.com/cs/library/applications/5991-0275EN.pdf"
+    },
+    {
+      "ASTM": [
+        "ASTM D3588"
+      ],
+      "DIN": "",
+      "EN": "",
+      "GBTSHT": "",
+      "GOST": "",
+      "GPA": [
+        "GPA 2172"
+      ],
+      "IP": "",
+      "ISO": [
+        "ISO 6976"
+      ],
+      "UOP": "",
+      "crmProduct": "Micro GC, PRO Micro GC",
+      "description": "Natural Gas Analyzer, EZ Reporter option #105. Various channel and accessory options are available",
+      "image": "https://firebasestorage.googleapis.com/v0/b/agilent-gc-standards.appspot.com/o/products%2F490%20Micro%20GC%20Quad%20Std_ELIBRARY_616768.jpg?alt=media&token=1e0875ee-8ee1-454f-aeec-5e1eb1e5916f",
+      "imageName": "490_Micro_GC.jpg",
+      "industry": "NaturalGas",
+      "market": "Natural Gas Midstream",
+      "modelNumber": "G3581A Option #105",
+      "supportingLiteratureLabel": "Fast Analysis of Natural Gas Using the Agilent 490 Micro GC Natural Gas Analyzer",
+      "supportingLiteratureLink": "https://www.agilent.com/cs/library/applications/5991-0275EN.pdf"
+    },
+    {
+      "ASTM": [
+        "ASTM D3588"
+      ],
+      "DIN": "",
+      "EN": "",
+      "GBTSHT": "",
+      "GOST": "",
+      "GPA": [
+        "GPA 2172"
+      ],
+      "IP": "",
+      "ISO": [
+        "ISO 6976"
+      ],
+      "UOP": "",
+      "crmProduct": "Micro GC, PRO Micro GC",
+      "description": "Natural gas analyzer A, Software EZ Reporter option #105",
+      "image": "https://firebasestorage.googleapis.com/v0/b/agilent-gc-standards.appspot.com/o/products%2F490%20Micro%20GC%20Quad%20Std_ELIBRARY_616768.jpg?alt=media&token=1e0875ee-8ee1-454f-aeec-5e1eb1e5916f",
+      "imageName": "490_Micro_GC.jpg",
+      "industry": "NaturalGas",
+      "market": "Natural Gas Midstream",
+      "modelNumber": "G3582A with Option #120",
+      "supportingLiteratureLabel": "Fast Analysis of Natural Gas Using the Agilent 490 Micro GC Natural Gas Analyzer",
+      "supportingLiteratureLink": "https://www.agilent.com/cs/library/applications/5991-0275EN.pdf"
+    },
+    {
+      "ASTM": [
+        "ASTM D3588"
+      ],
+      "DIN": "",
+      "EN": "",
+      "GBTSHT": "",
+      "GOST": "",
+      "GPA": [
+        "GPA 2172"
+      ],
+      "IP": "",
+      "ISO": [
+        "ISO 6976"
+      ],
+      "UOP": "",
+      "crmProduct": "Micro GC, PRO Micro GC",
+      "description": "Natural gas analyzer A extended,  Software EZ Reporter option #105",
+      "image": "https://firebasestorage.googleapis.com/v0/b/agilent-gc-standards.appspot.com/o/products%2F490%20Micro%20GC%20Quad%20Std_ELIBRARY_616768.jpg?alt=media&token=1e0875ee-8ee1-454f-aeec-5e1eb1e5916f",
+      "imageName": "490_Micro_GC.jpg",
+      "industry": "NaturalGas",
+      "market": "Natural Gas Midstream",
+      "modelNumber": "G3582A with Option #121",
+      "supportingLiteratureLabel": "Fast Analysis of Natural Gas Using the Agilent 490 Micro GC Natural Gas Analyzer",
+      "supportingLiteratureLink": "https://www.agilent.com/cs/library/applications/5991-0275EN.pdf"
+    },
+    {
+      "ASTM": [
+        "ASTM D3588"
+      ],
+      "DIN": "",
+      "EN": "",
+      "GBTSHT": "",
+      "GOST": "",
+      "GPA": [
+        "GPA 2172"
+      ],
+      "IP": "",
+      "ISO": [
+        "ISO 6976"
+      ],
+      "UOP": "",
+      "crmProduct": "Micro GC, PRO Micro GC",
+      "description": "Natural gas analyzer B,  Software EZ Reporter option #105",
+      "image": "https://firebasestorage.googleapis.com/v0/b/agilent-gc-standards.appspot.com/o/products%2F490%20Micro%20GC%20Quad%20Std_ELIBRARY_616768.jpg?alt=media&token=1e0875ee-8ee1-454f-aeec-5e1eb1e5916f",
+      "imageName": "490_Micro_GC.jpg",
+      "industry": "NaturalGas",
+      "market": "Natural Gas Midstream",
+      "modelNumber": "G3582A with Option #122",
+      "supportingLiteratureLabel": "Fast Analysis of Natural Gas Using the Agilent 490 Micro GC Natural Gas Analyzer",
+      "supportingLiteratureLink": "https://www.agilent.com/cs/library/applications/5991-0275EN.pdf"
+    },
+    {
+      "ASTM": [
+        "ASTM D3588"
+      ],
+      "DIN": "",
+      "EN": "",
+      "GBTSHT": "",
+      "GOST": "",
+      "GPA": [
+        "GPA 2172"
+      ],
+      "IP": "",
+      "ISO": [
+        "ISO 6976"
+      ],
+      "UOP": "",
+      "crmProduct": "Micro GC, PRO Micro GC",
+      "description": "Natural gas analyzer B extended,  Software EZ Reporter option #105",
+      "image": "https://firebasestorage.googleapis.com/v0/b/agilent-gc-standards.appspot.com/o/products%2F490%20Micro%20GC%20Quad%20Std_ELIBRARY_616768.jpg?alt=media&token=1e0875ee-8ee1-454f-aeec-5e1eb1e5916f",
+      "imageName": "490_Micro_GC.jpg",
+      "industry": "NaturalGas",
+      "market": "Natural Gas Midstream",
+      "modelNumber": "G3582A with Option #123",
+      "supportingLiteratureLabel": "Fast Analysis of Natural Gas Using the Agilent 490 Micro GC Natural Gas Analyzer",
+      "supportingLiteratureLink": "https://www.agilent.com/cs/library/applications/5991-0275EN.pdf"
+    },
+    {
+      "ASTM": [
+        "ASTM D2163"
+      ],
+      "DIN": "",
+      "EN": "",
+      "GBTSHT": "",
+      "GOST": "",
+      "GPA": "",
+      "IP": "",
+      "ISO": "",
+      "UOP": "",
+      "crmProduct": "GC Analyzers\n",
+      "description": "LPG Composition Analyzer as per ASTM D2163, D2593, D2712 and D4424 with Alumina column",
+      "image": "https://firebasestorage.googleapis.com/v0/b/agilent-gc-standards.appspot.com/o/products%2F7890B-LVO-right.jpg?alt=media&token=a6c12f32-2580-44d8-93b2-91d6570cd47d",
+      "imageName": "7890B-LVO-right.jpg",
+      "industry": "CrudeOil",
+      "market": "Fuels Midstream",
+      "modelNumber": "7890-0138",
+      "supportingLiteratureLabel": "Agilent Refinery Gas Analyzer - Oxygenates in Butane Feedstocks, Gasoline, and Naphtha (PDF)",
+      "supportingLiteratureLink": "https://www.agilent.com/cs/library/applications/5988-6732EN.pdf"
+    },
+    {
+      "ASTM": [
+        "ASTM D1946 (special application)"
+      ],
+      "DIN": "",
+      "EN": "",
+      "GBTSHT": "",
+      "GOST": "",
+      "GPA": "",
+      "IP": "",
+      "ISO": "",
+      "UOP": "",
+      "crmProduct": "GC Analyzers\n",
+      "description": "Refinery Gas Analyzer with High H2 and H2S Content",
+      "image": "https://firebasestorage.googleapis.com/v0/b/agilent-gc-standards.appspot.com/o/products%2F7890B-LVO-right.jpg?alt=media&token=a6c12f32-2580-44d8-93b2-91d6570cd47d",
+      "imageName": "7890B-LVO-right.jpg",
+      "industry": "CrudeOil",
+      "market": "Refining Midstream",
+      "modelNumber": "7890-0226",
+      "supportingLiteratureLabel": "",
+      "supportingLiteratureLink": "https://www.agilent.com/cs/library/brochures/5990-8300EN_RGA%20Flyer.pdf"
+    },
+    {
+      "ASTM": [
+        "ASTM D7754"
+      ],
+      "DIN": "",
+      "EN": "",
+      "GBTSHT": "",
+      "GOST": "",
+      "GPA": "",
+      "IP": "",
+      "ISO": "",
+      "UOP": "",
+      "crmProduct": "GC Analyzers\n",
+      "description": "Trace Oxygenates in Gasoline Analyzer with GS-Oxy-PLOT column as per ASTM D7754 Configuration A",
+      "image": "https://www.agilent.com/cs/publishingimages/product_7890B_7693_tray_730x730_lg.png",
+      "imageName": "",
+      "industry": "CrudeOil",
+      "market": "Fuels Midstream",
+      "modelNumber": "7890-0340",
+      "supportingLiteratureLabel": "Fuel Ethanol Analyzers flyer (PDF)",
+      "supportingLiteratureLink": "https://www.agilent.com/cs/library/flyers/public/5991-1209EN%20AAK%20Ethanol%20Flyer.pdf"
+    },
+    {
+      "ASTM": "",
+      "DIN": "",
+      "EN": "",
+      "GBTSHT": [
+        "SH/T 0713"
+      ],
+      "GOST": "",
+      "GPA": "",
+      "IP": "",
+      "ISO": "",
+      "UOP": "",
+      "crmProduct": "GC Analyzers\n",
+      "description": "Benzene and toluene in gasoline (without ethanol) analyzer for ASTM D3606",
+      "image": "https://www.agilent.com/cs/publishingimages/product_7890B_7693_tray_730x730_lg.png",
+      "imageName": "",
+      "industry": "CrudeOil",
+      "market": "Fuels Midstream",
+      "modelNumber": "7890-0662",
+      "supportingLiteratureLabel": "A New Approach to ASTM D3606 for the Analysis of Benzene and Toluene in Gasoline using Mid-Column Backflush and Hydrogen Carrier with the Agilent 7890B GC (PDF)",
+      "supportingLiteratureLink": "https://www.agilent.com/cs/library/applications/5991-1852EN.pdf"
+    },
+    {
+      "ASTM": "",
+      "DIN": "",
+      "EN": "",
+      "GBTSHT": [
+        "SH/T 0713",
+        " SH/T 0663",
+        " SH/T 0693"
+      ],
+      "GOST": "",
+      "GPA": "",
+      "IP": "",
+      "ISO": "",
+      "UOP": "",
+      "crmProduct": "GC Analyzers\n",
+      "description": "Gasoline analyzer for SH/T 0713 & D5580 + D4815 Analyzer - LVO",
+      "image": "https://www.agilent.com/cs/publishingimages/product_7890B_7693_tray_730x730_lg.png",
+      "imageName": "",
+      "industry": "CrudeOil",
+      "market": "Fuels Midstream",
+      "modelNumber": "7890-0676",
+      "supportingLiteratureLabel": "",
+      "supportingLiteratureLink": "https://www.agilent.com/cs/library/brochures/Reformulated%20Fuels%20analyzer%20flyer_LR.pdf"
+    },
+    {
+      "ASTM": [
+        "ASTM D5623"
+      ],
+      "DIN": "",
+      "EN": "",
+      "GBTSHT": "",
+      "GOST": "",
+      "GPA": "",
+      "IP": "",
+      "ISO": "",
+      "UOP": "",
+      "crmProduct": "GC Systems",
+      "description": "Determination of sulfur speciation in gasoline and light petroleum distillates by GC-SCD",
+      "image": "https://www.agilent.com/cs/publishingimages/product_7890B_7693_tray_730x730_lg.png",
+      "imageName": "",
+      "industry": "CrudeOil",
+      "market": "E&P, Refining and Fuels",
+      "modelNumber": "Intuvo with new SCD - Need Model #",
+      "supportingLiteratureLabel": "",
+      "supportingLiteratureLink": "https://www.agilent.com/cs/library/applications/5991-7178EN.pdf"
+    },
+    {
+      "ASTM": [
+        "ASTM D1945",
+        "ASTM D1946"
+      ],
+      "DIN": "",
+      "EN": "",
+      "GBTSHT": "",
+      "GOST": "",
+      "GPA": "",
+      "IP": "",
+      "ISO": "",
+      "UOP": [
+        "UOP 539"
+      ],
+      "crmProduct": "GC Analyzers\n",
+      "description": "Three Channel Fast Refinery Gas Analyzer with Five Valves",
+      "image": "https://firebasestorage.googleapis.com/v0/b/agilent-gc-standards.appspot.com/o/products%2F7890B-LVO-right.jpg?alt=media&token=a6c12f32-2580-44d8-93b2-91d6570cd47d",
+      "imageName": "7890B-LVO-right.jpg",
+      "industry": "CrudeOil",
+      "market": "Refining Midstream",
+      "modelNumber": "G3445B#521",
+      "supportingLiteratureLabel": "",
+      "supportingLiteratureLink": "https://www.agilent.com/cs/library/brochures/5990-8300EN_RGA%20Flyer.pdf"
+    },
+    {
+      "ASTM": [
+        "ASTM D1945",
+        "ASTM D1946"
+      ],
+      "DIN": "",
+      "EN": "",
+      "GBTSHT": "",
+      "GOST": "",
+      "GPA": "",
+      "IP": "",
+      "ISO": "",
+      "UOP": [
+        "UOP 539"
+      ],
+      "crmProduct": "GC Analyzers\n",
+      "description": "Three Channel Fast Refinery Gas Analyzer + H2S with Five Valves ",
+      "image": "https://firebasestorage.googleapis.com/v0/b/agilent-gc-standards.appspot.com/o/products%2F7890B-LVO-right.jpg?alt=media&token=a6c12f32-2580-44d8-93b2-91d6570cd47d",
+      "imageName": "7890B-LVO-right.jpg",
+      "industry": "CrudeOil",
+      "market": "Refining Midstream",
+      "modelNumber": "G3445B#522",
+      "supportingLiteratureLabel": "",
+      "supportingLiteratureLink": "https://www.agilent.com/cs/library/brochures/5990-8300EN_RGA%20Flyer.pdf"
+    },
+    {
+      "ASTM": [
+        "ASTM D1946 (special application)"
+      ],
+      "DIN": "",
+      "EN": "",
+      "GBTSHT": "",
+      "GOST": "",
+      "GPA": "",
+      "IP": "",
+      "ISO": "",
+      "UOP": "",
+      "crmProduct": "GC Analyzers\n",
+      "description": "Extended Refinery Gas Analyzer up to C12 ",
+      "image": "https://firebasestorage.googleapis.com/v0/b/agilent-gc-standards.appspot.com/o/products%2F7890B-LVO-right.jpg?alt=media&token=a6c12f32-2580-44d8-93b2-91d6570cd47d",
+      "imageName": "7890B-LVO-right.jpg",
+      "industry": "CrudeOil",
+      "market": "Refining Midstream",
+      "modelNumber": "G3445B#523",
+      "supportingLiteratureLabel": "Refinery Gas Analyzers flyer",
+      "supportingLiteratureLink": "https://www.agilent.com/cs/library/brochures/5990-8300EN_RGA%20Flyer.pdf"
+    },
+    {
+      "ASTM": [
+        "ASTM D1945",
+        "ASTM D1946"
+      ],
+      "DIN": "",
+      "EN": "",
+      "GBTSHT": "",
+      "GOST": "",
+      "GPA": "",
+      "IP": "",
+      "ISO": "",
+      "UOP": "",
+      "crmProduct": "GC Analyzers\n",
+      "description": "Fast Refinery Gas Analyzer (RGA) with hydrogen sulfide and oxygen",
+      "image": "https://firebasestorage.googleapis.com/v0/b/agilent-gc-standards.appspot.com/o/products%2F7890B-LVO-right.jpg?alt=media&token=a6c12f32-2580-44d8-93b2-91d6570cd47d",
+      "imageName": "7890B-LVO-right.jpg",
+      "industry": "CrudeOil",
+      "market": "Refining Midstream",
+      "modelNumber": "G3445B#529",
+      "supportingLiteratureLabel": "Refinery Gas Analyzers flyer",
+      "supportingLiteratureLink": "https://www.agilent.com/cs/library/brochures/5990-8300EN_RGA%20Flyer.pdf"
+    },
+    {
+      "ASTM": [
+        "ASTM D1945",
+        "ASTM D1946"
+      ],
+      "DIN": "",
+      "EN": "",
+      "GBTSHT": "",
+      "GOST": "",
+      "GPA": "",
+      "IP": "",
+      "ISO": "",
+      "UOP": [
+        "UOP 539"
+      ],
+      "crmProduct": "GC Analyzers\n",
+      "description": "High Capacity Refinery Gas Analyzer (RGA) with Large Valve Oven and helium carrier gas for hydrogen sulfide and oxygen ",
+      "image": "https://firebasestorage.googleapis.com/v0/b/agilent-gc-standards.appspot.com/o/products%2F7890B-LVO-right.jpg?alt=media&token=a6c12f32-2580-44d8-93b2-91d6570cd47d",
+      "imageName": "7890B-LVO-right.jpg",
+      "industry": "CrudeOil",
+      "market": "Refining Midstream",
+      "modelNumber": "G3445B#531",
+      "supportingLiteratureLabel": "",
+      "supportingLiteratureLink": ""
+    },
+    {
+      "ASTM": "",
+      "DIN": "",
+      "EN": "",
+      "GBTSHT": "",
+      "GOST": "",
+      "GPA": "",
+      "IP": "",
+      "ISO": "",
+      "UOP": [
+        "UOP 539"
+      ],
+      "crmProduct": "GC Analyzers\n",
+      "description": "Fast Refinery Gas Analyzer with Large Valve Oven and Micropacked Columns",
+      "image": "https://firebasestorage.googleapis.com/v0/b/agilent-gc-standards.appspot.com/o/products%2F7890B-LVO-right.jpg?alt=media&token=a6c12f32-2580-44d8-93b2-91d6570cd47d",
+      "imageName": "7890B-LVO-right.jpg",
+      "industry": "CrudeOil",
+      "market": "Refining Midstream",
+      "modelNumber": "G3445B#532",
+      "supportingLiteratureLabel": "Fast Refinery Gas Analysis System Based on the Agilent 7890B GC System and G3507A Large Valve Oven Using Micropacked Columns (PDF)",
+      "supportingLiteratureLink": "https://www.agilent.com/cs/library/applications/5991-3534EN.pdf"
+    },
+    {
+      "ASTM": "",
+      "DIN": "",
+      "EN": "",
+      "GBTSHT": "",
+      "GOST": "",
+      "GPA": "",
+      "IP": "",
+      "ISO": "",
+      "UOP": [
+        "UOP 539"
+      ],
+      "crmProduct": "GC Analyzers\n",
+      "description": "Refinery Gas Analyzer with LVO and hydrogen carrier gas for oxygen and H2S analysis",
+      "image": "https://firebasestorage.googleapis.com/v0/b/agilent-gc-standards.appspot.com/o/products%2F7890B-LVO-right.jpg?alt=media&token=a6c12f32-2580-44d8-93b2-91d6570cd47d",
+      "imageName": "7890B-LVO-right.jpg",
+      "industry": "CrudeOil",
+      "market": "Refining Midstream",
+      "modelNumber": "G3445B#533",
+      "supportingLiteratureLabel": "Refinery Gas Analyzers flyer (PDF)",
+      "supportingLiteratureLink": "https://www.agilent.com/cs/library/brochures/5990-8300EN_RGA%20Flyer.pdf"
+    },
+    {
+      "ASTM": [
+        "ASTM D4815",
+        "ASTM D5580"
+      ],
+      "DIN": "",
+      "EN": "",
+      "GBTSHT": "",
+      "GOST": "",
+      "GPA": "",
+      "IP": "",
+      "ISO": "",
+      "UOP": "",
+      "crmProduct": "GC Analyzers\n",
+      "description": "Analyzer for ASTM 4815/5580 ",
+      "image": "https://www.agilent.com/cs/publishingimages/product_7890B_7693_tray_730x730_lg.png",
+      "imageName": "",
+      "industry": "CrudeOil",
+      "market": "Fuels Midstream",
+      "modelNumber": "G3445B#611",
+      "supportingLiteratureLabel": "Running ASTM Methods D4815 and D5580 on a Single Agilent 6890N Gas Chromatograph with Nitrogen Carrier Gas (PDF)",
+      "supportingLiteratureLink": "https://www.agilent.com/cs/library/applications/5988-9153EN.pdf"
+    },
+    {
+      "ASTM": [
+        "ASTM D4815"
+      ],
+      "DIN": "",
+      "EN": "",
+      "GBTSHT": "",
+      "GOST": "",
+      "GPA": "",
+      "IP": "",
+      "ISO": "",
+      "UOP": "",
+      "crmProduct": "GC Analyzers\n",
+      "description": "Dual Channel Gasoline Analyzer with checkout for the ASTM methods D4815 AND D5580 ",
+      "image": "https://www.agilent.com/cs/publishingimages/product_7890B_7693_tray_730x730_lg.png",
+      "imageName": "",
+      "industry": "CrudeOil",
+      "market": "Fuels Midstream",
+      "modelNumber": "G3445B#612",
+      "supportingLiteratureLabel": "Running ASTM Methods D4815 and D5580 on a Single Agilent 6890N Gas Chromatograph with Nitrogen Carrier Gas (PDF)",
+      "supportingLiteratureLink": "https://www.agilent.com/cs/library/applications/5988-9153EN.pdf"
+    },
+    {
+      "ASTM": [
+        "ASTM D4815"
+      ],
+      "DIN": "",
+      "EN": "",
+      "GBTSHT": "",
+      "GOST": "",
+      "GPA": "",
+      "IP": "",
+      "ISO": "",
+      "UOP": "",
+      "crmProduct": "GC Analyzers\n",
+      "description": "D4815 Oxygenates in gasoline analyzer",
+      "image": "https://www.agilent.com/cs/publishingimages/product_7890B_7693_tray_730x730_lg.png",
+      "imageName": "",
+      "industry": "CrudeOil",
+      "market": "Fuels Midstream",
+      "modelNumber": "G3445B#614",
+      "supportingLiteratureLabel": "",
+      "supportingLiteratureLink": ""
+    },
+    {
+      "ASTM": [
+        "ASTM D3606"
+      ],
+      "DIN": "",
+      "EN": "",
+      "GBTSHT": "",
+      "GOST": "",
+      "GPA": "",
+      "IP": "",
+      "ISO": "",
+      "UOP": "",
+      "crmProduct": "GC Analyzers\n",
+      "description": "Analyzer for ASTM D3606 Benzene in gasoline",
+      "image": "https://www.agilent.com/cs/publishingimages/product_7890B_7693_tray_730x730_lg.png",
+      "imageName": "",
+      "industry": "CrudeOil",
+      "market": "Fuels Midstream",
+      "modelNumber": "G3445B#615",
+      "supportingLiteratureLabel": "Agilent Reformulated Fuel Analyzer - Analysis of Benzene and Toluene in Gasoline According to ASTM D3606",
+      "supportingLiteratureLink": ""
+    },
+    {
+      "ASTM": [
+        "ASTM D5580"
+      ],
+      "DIN": "",
+      "EN": "",
+      "GBTSHT": "",
+      "GOST": "",
+      "GPA": "",
+      "IP": "",
+      "ISO": "",
+      "UOP": "",
+      "crmProduct": "GC Analyzers\n",
+      "description": "Analyzer with checkout for D5580 for A and B Aromatics in Gasoline ",
+      "image": "https://www.agilent.com/cs/publishingimages/product_7890B_7693_tray_730x730_lg.png",
+      "imageName": "",
+      "industry": "CrudeOil",
+      "market": "Fuels Midstream",
+      "modelNumber": "G3445B#616",
+      "supportingLiteratureLabel": "",
+      "supportingLiteratureLink": ""
+    },
+    {
+      "ASTM": "",
+      "DIN": "",
+      "EN": [
+        "EN 12177",
+        "EN 13132"
+      ],
+      "GBTSHT": "",
+      "GOST": "",
+      "GPA": "",
+      "IP": "",
+      "ISO": "",
+      "UOP": "",
+      "crmProduct": "GC Analyzers\n",
+      "description": "Oxygenates Analyzer for for EN13132",
+      "image": "https://www.agilent.com/cs/publishingimages/product_7890B_7693_tray_730x730_lg.png",
+      "imageName": "",
+      "industry": "CrudeOil",
+      "market": "Fuels Midstream",
+      "modelNumber": "G3445B#617",
+      "supportingLiteratureLabel": "",
+      "supportingLiteratureLink": ""
+    },
+    {
+      "ASTM": [
+        "ASTM D7423"
+      ],
+      "DIN": "",
+      "EN": "",
+      "GBTSHT": "",
+      "GOST": "",
+      "GPA": "",
+      "IP": "",
+      "ISO": "",
+      "UOP": "",
+      "crmProduct": "GC Analyzers\n",
+      "description": "Low oxygenates in hydrocarbons analyzer w. pneumatic type backflush.",
+      "image": "https://www.agilent.com/cs/publishingimages/product_7890B_7693_tray_730x730_lg.png",
+      "imageName": "",
+      "industry": "CrudeOil",
+      "market": "Fuels Midstream",
+      "modelNumber": "G3445B#618",
+      "supportingLiteratureLabel": "An Alternative Application for a Highly Oxygen-Selective Capillary GC Plot Column (PDF)",
+      "supportingLiteratureLink": "https://www.agilent.com/cs/library/applications/5990-4493EN.pdf"
+    },
+    {
+      "ASTM": [
+        "ASTM D3606",
+        "ASTM D4815",
+        "ASTM D5580"
+      ],
+      "DIN": "",
+      "EN": "",
+      "GBTSHT": "",
+      "GOST": "",
+      "GPA": "",
+      "IP": "",
+      "ISO": "",
+      "UOP": "",
+      "crmProduct": "GC Analyzers\n",
+      "description": "Reformulated Fuel Analyzer with Large Valve Oven",
+      "image": "https://firebasestorage.googleapis.com/v0/b/agilent-gc-standards.appspot.com/o/products%2F7890B-LVO-right.jpg?alt=media&token=a6c12f32-2580-44d8-93b2-91d6570cd47d",
+      "imageName": "7890B-LVO-right.jpg",
+      "industry": "CrudeOil",
+      "market": "Fuels Midstream",
+      "modelNumber": "G3445B#621",
+      "supportingLiteratureLabel": "Agilent Reformulated Fuel Analyzer - Analysis of Benzene and Toluene in Gasoline According to ASTM D3606",
+      "supportingLiteratureLink": "https://www.agilent.com/cs/library/applications/5988-6726EN.pdf"
+    },
+    {
+      "ASTM": [
+        "ASTM D2887"
+      ],
+      "DIN": "",
+      "EN": "",
+      "GBTSHT": "",
+      "GOST": "",
+      "GPA": "",
+      "IP": "",
+      "ISO": "",
+      "UOP": "",
+      "crmProduct": "GC Analyzers\n",
+      "description": "Simulated Distillation Analyzer for ASTM D2887",
+      "image": "https://www.agilent.com/cs/publishingimages/product_7890B_7693_tray_226x191.jpg",
+      "imageName": "",
+      "industry": "CrudeOil",
+      "market": "E&P Oil Upstream",
+      "modelNumber": "G3445B#653",
+      "supportingLiteratureLabel": "Simulated Distillation System for ASTM D2887, Based on the Agilent 6890N GC",
+      "supportingLiteratureLink": "https://www.agilent.com/cs/library/applications/5989-2726EN.pdf"
+    },
+    {
+      "ASTM": [
+        "ASTM D7213"
+      ],
+      "DIN": "",
+      "EN": "",
+      "GBTSHT": "",
+      "GOST": "",
+      "GPA": "",
+      "IP": "",
+      "ISO": "",
+      "UOP": "",
+      "crmProduct": "GC Analyzers\n",
+      "description": "Simdist column and checkout for ASTM D7213 (extended D2887) analyzer ",
+      "image": "https://www.agilent.com/cs/publishingimages/product_7890B_7693_tray_226x191.jpg",
+      "imageName": "",
+      "industry": "CrudeOil",
+      "market": "E&P Oil Upstream",
+      "modelNumber": "G3445B#654",
+      "supportingLiteratureLabel": "Automated Preparation of Simulated Distillation Standards and Samples for ASTM Methods D2887, D7213, D7398 and D6352 using the 7693A System with Easy SamplePrep Software",
+      "supportingLiteratureLink": "https://www.agilent.com/cs/library/applications/5990-6132EN.pdf"
+    },
+    {
+      "ASTM": [
+        "ASTM D6352"
+      ],
+      "DIN": "",
+      "EN": "",
+      "GBTSHT": "",
+      "GOST": "",
+      "GPA": "",
+      "IP": "",
+      "ISO": "",
+      "UOP": "",
+      "crmProduct": "GC Analyzers\n",
+      "description": "Simdist HT column and checkout for ASTM D6352 analyzer ",
+      "image": "https://www.agilent.com/cs/publishingimages/product_7890B_7693_tray_226x191.jpg",
+      "imageName": "",
+      "industry": "CrudeOil",
+      "market": "E&P Oil Upstream",
+      "modelNumber": "G3445B#655",
+      "supportingLiteratureLabel": "Automated Preparation of Simulated Distillation Samples for ASTM Methods D2887, D7213, D7398 and D6352 using a Dual Tower 7693A and Tray System",
+      "supportingLiteratureLink": "https://www.agilent.com/cs/library/applications/5990-3778EN.pdf"
+    },
+    {
+      "ASTM": "",
+      "DIN": "",
+      "EN": "",
+      "GBTSHT": "",
+      "GOST": "",
+      "GPA": "",
+      "IP": "",
+      "ISO": "",
+      "UOP": "",
+      "crmProduct": "GC Analyzers\n",
+      "description": "Ultra Fast Simulated Distillation for D7798 with LTM",
+      "image": "https://www.agilent.com/cs/publishingimages/product_7890B_7693_tray_226x191.jpg",
+      "imageName": "",
+      "industry": "CrudeOil",
+      "market": "E&P Oil Upstream",
+      "modelNumber": "G3445B#658",
+      "supportingLiteratureLabel": "Automated Preparation of Simulated Distillation Samples for ASTM Methods D2887, D7213, D7398 and D6352 using a Dual Tower 7693A and Tray System",
+      "supportingLiteratureLink": "https://www.agilent.com/cs/library/applications/5990-3778EN.pdf"
+    },
+    {
+      "ASTM": "",
+      "DIN": "",
+      "EN": "",
+      "GBTSHT": "",
+      "GOST": "",
+      "GPA": "",
+      "IP": [
+        "IP 585"
+      ],
+      "ISO": "",
+      "UOP": "",
+      "crmProduct": "GC-MS",
+      "description": "FAMEs in Jet Fuel Analyzer",
+      "image": "https://firebasestorage.googleapis.com/v0/b/agilent-gc-standards.appspot.com/o/products%2F7010BHES-7890B-7693-tray_ELIBRARY_579499.jpg?alt=media&token=7df38be4-3804-448d-a227-60dd52c3c195",
+      "imageName": "7010BHES-7890B-7693-tray_ELIBRARY_579499.jpg",
+      "industry": "CrudeOil",
+      "market": "Fuels Midstream",
+      "modelNumber": "M7482A",
+      "supportingLiteratureLabel": "",
+      "supportingLiteratureLink": "https://www.agilent.com/cs/library/applications/5990-9717EN.pdf"
+    },
+    {
+      "ASTM": [
+        "ASTM D3588"
+      ],
+      "DIN": "",
+      "EN": "",
+      "GBTSHT": "",
+      "GOST": [
+        "GOST 22667"
+      ],
+      "GPA": [
+        "GPA 2172"
+      ],
+      "IP": "",
+      "ISO": [
+        "ISO 6976"
+      ],
+      "UOP": "",
+      "crmProduct": "Micro GC",
+      "description": "490 PRO Micro GC - On-line Process Gas Analyzer, Software PRO Option #005. Various channel and accessory options are available. ",
+      "image": "https://firebasestorage.googleapis.com/v0/b/agilent-gc-standards.appspot.com/o/products%2F490%20Micro%20GC%20Quad%20Std_ELIBRARY_616768.jpg?alt=media&token=1e0875ee-8ee1-454f-aeec-5e1eb1e5916f",
+      "imageName": "490_Micro_GC.jpg",
+      "industry": "CrudeOil",
+      "market": "Refining Midstream",
+      "modelNumber": "G3581A Option #005",
+      "supportingLiteratureLabel": "Agilent 490-PRO Micro GC for Process Monitoring (PDF)",
+      "supportingLiteratureLink": "https://www.agilent.com/cs/library/datasheets/public/5991-6056EN.pdf"
+    },
+    {
+      "ASTM": [
+        "ASTM D3588"
+      ],
+      "DIN": "",
+      "EN": "",
+      "GBTSHT": "",
+      "GOST": "",
+      "GPA": [
+        "GPA 2172"
+      ],
+      "IP": "",
+      "ISO": [
+        "ISO 6976"
+      ],
+      "UOP": "",
+      "crmProduct": "Micro GC",
+      "description": "490 Micro GC - Hydrocarbon Gas Analyzer, EZ Reporter option #105. Various channel and accessory options are available",
+      "image": "https://firebasestorage.googleapis.com/v0/b/agilent-gc-standards.appspot.com/o/products%2F490%20Micro%20GC%20Quad%20Std_ELIBRARY_616768.jpg?alt=media&token=1e0875ee-8ee1-454f-aeec-5e1eb1e5916f",
+      "imageName": "490_Micro_GC.jpg",
+      "industry": "CrudeOil",
+      "market": "Refining Midstream",
+      "modelNumber": "G3581A Option #105",
+      "supportingLiteratureLabel": "Agilent 490-PRO Micro GC for Process Monitoring (PDF)",
+      "supportingLiteratureLink": "https://www.agilent.com/cs/library/datasheets/public/5991-6056EN.pdf"
+    },
+    {
+      "ASTM": [
+        "ASTM D6591"
+      ],
+      "DIN": "",
+      "EN": "",
+      "GBTSHT": "",
+      "GOST": "",
+      "GPA": "",
+      "IP": [
+        "IP 391"
+      ],
+      "ISO": "",
+      "UOP": "",
+      "crmProduct": "Analytical HPLC\n",
+      "description": "Determination of Aromatic Hydrocarbons in Petroleum Distillates by Agilent 1260 Infinity Binary HPLC with RID detector.",
+      "image": "https://www.agilent.com/cs/publishingimages/1260_Infinity_II_LC_with_Binary_Pump_front_zoomtb.jpg",
+      "imageName": "",
+      "industry": "CrudeOil",
+      "market": "Fuels",
+      "modelNumber": "Agilent Application Note: 5991-3170EN",
+      "supportingLiteratureLabel": "Determination of Aromatic Hydrocarbons in Petroleum Middle Distillates with the Agilent 1260 Infinity Binary HPLC System with RID Detection According to IP391(2000)/ASTM D6591 (PDF)",
+      "supportingLiteratureLink": "https://www.agilent.com/cs/library/applications/5991-8061EN.pdf"
+    },
+    {
+      "ASTM": [
+        "ASTM D7419"
+      ],
+      "DIN": "",
+      "EN": "",
+      "GBTSHT": "",
+      "GOST": "",
+      "GPA": "",
+      "IP": "",
+      "ISO": "",
+      "UOP": "",
+      "crmProduct": "Analytical HPLC",
+      "description": "Determination of Total Aromatic Hydrocarbons and Saturates in Petroleum Distillates by Agilent 1260 Infinity Binary HPLC and RI detector.",
+      "image": "https://www.agilent.com/cs/publishingimages/1260_Infinity_II_LC_with_Binary_Pump_front_zoomtb.jpg",
+      "imageName": "",
+      "industry": "CrudeOil",
+      "market": "Fuels",
+      "modelNumber": "Agilent Application Note: 5991-3171EN",
+      "supportingLiteratureLabel": "Determination of Total Aromatic Hydrocarbons and Total Saturates with the Agilent 1260 Infinity Binary LC System with RI Detection According to ASTM D7419 (PDF)",
+      "supportingLiteratureLink": "https://www.agilent.com/cs/library/applications/5991-3171EN.pdf"
+    },
+    {
+      "ASTM": [
+        "ASTM D6379"
+      ],
+      "DIN": "",
+      "EN": "",
+      "GBTSHT": "",
+      "GOST": "",
+      "GPA": "",
+      "IP": [
+        "IP 436"
+      ],
+      "ISO": "",
+      "UOP": "",
+      "crmProduct": "Analytical HPLC",
+      "description": "Determination of Aromatic Hydrocarbons in Aviation Fuel by Agilent 1260 Infinity Binary HPLC with RID detector.",
+      "image": "https://www.agilent.com/cs/publishingimages/1260_Infinity_II_LC_with_Binary_Pump_front_zoomtb.jpg",
+      "imageName": "",
+      "industry": "CrudeOil",
+      "market": "Fuels",
+      "modelNumber": "Agilent Application Note: 5991-3172EN",
+      "supportingLiteratureLabel": "Determination of Total Aromatic Hydrocarbons and Total Saturates with the Agilent 1260 Infinity Binary LC System with RI Detection According to ASTM D7419 (PDF)",
+      "supportingLiteratureLink": "https://www.agilent.com/cs/library/applications/5991-3171EN.pdf"
+    },
+    {
+      "ASTM": [
+        "ASTM D7371"
+      ],
+      "DIN": "",
+      "EN": "",
+      "GBTSHT": "",
+      "GOST": "",
+      "GPA": "",
+      "IP": "",
+      "ISO": "",
+      "UOP": "",
+      "crmProduct": "FTIR",
+      "description": "Standard Test Method for Determination of Biodiesel (Fatty Acid Methyl Esters) Content in Diesel Fuel Oil Using Mid Infrared Spectroscopy",
+      "image": "https://firebasestorage.googleapis.com/v0/b/agilent-gc-standards.appspot.com/o/products%2F2014_08_pipeline_5500ftir_ELIBRARY_483675_2014.jpg?alt=media&token=76e42444-bac9-47ac-8e84-0131dc9db8aa",
+      "imageName": "2014_08_pipeline_5500ftir_ELIBRARY_483675_2014.jpg",
+      "industry": "CrudeOil",
+      "market": "Fuels",
+      "modelNumber": "Model 630, or 4500 or 5500",
+      "supportingLiteratureLabel": "Portable measurement of biodiesel in diesel fuels by ASTM D7371-07 (FTIR-ATR-PLS method) with the Agilent 5500t FTIR spectrometer (PDF)",
+      "supportingLiteratureLink": "https://www.agilent.com/cs/library/applications/5990-7807EN.pdf"
+    },
+    {
+      "ASTM": "",
+      "DIN": "",
+      "EN": [
+        "EN14078"
+      ],
+      "GBTSHT": "",
+      "GOST": "",
+      "GPA": "",
+      "IP": "",
+      "ISO": "",
+      "UOP": "",
+      "crmProduct": "FTIR",
+      "description": "Determination of fatty acid methyl ester (FAME) content in middle distillates - Infrared spectrometry method",
+      "image": "https://firebasestorage.googleapis.com/v0/b/agilent-gc-standards.appspot.com/o/products%2F2014_08_pipeline_5500ftir_ELIBRARY_483675_2014.jpg?alt=media&token=76e42444-bac9-47ac-8e84-0131dc9db8aa",
+      "imageName": "2014_08_pipeline_5500ftir_ELIBRARY_483675_2014.jpg",
+      "industry": "CrudeOil",
+      "market": "Fuels",
+      "modelNumber": "Model 630, or 4500 or 5500",
+      "supportingLiteratureLabel": "Biodiesel in diesel fuel using the Agilent 5500t FTIR spectrometer by EN14078 method (PDF)",
+      "supportingLiteratureLink": "https://www.agilent.com/cs/library/applications/5990-7802EN.pdf"
+    },
+    {
+      "ASTM": [
+        "ASTM D3237",
+        " D3831"
+      ],
+      "DIN": "",
+      "EN": "",
+      "GBTSHT": "",
+      "GOST": "",
+      "GPA": "",
+      "IP": "",
+      "ISO": "",
+      "UOP": "",
+      "crmProduct": "Flame AA",
+      "description": "Determination of lead in gasoline; Determination of manganese in gasoline - Scaleable models for your workflow are also available on the 240 AA, 240 FS AA and 280 FS AA",
+      "image": "https://www.agilent.com/cs/publishingimages/55B%20Primary%20Image.jpg",
+      "imageName": "",
+      "industry": "CrudeOil",
+      "market": "Fuels",
+      "modelNumber": "55 B",
+      "supportingLiteratureLabel": "",
+      "supportingLiteratureLink": ""
+    },
+    {
+      "ASTM": [
+        "ASTM D3605"
+      ],
+      "DIN": "",
+      "EN": "",
+      "GBTSHT": "",
+      "GOST": "",
+      "GPA": "",
+      "IP": "",
+      "ISO": "",
+      "UOP": "",
+      "crmProduct": "Flame AA",
+      "description": "Determination of trace metals in gas turbine fuels. Scaleable models for your workflow are also available on the  280 FS AA and 55B",
+      "image": "https://www.agilent.com/cs/publishingimages/240FS%20Main%20Photo.jpg",
+      "imageName": "",
+      "industry": "CrudeOil",
+      "market": "Fuels",
+      "modelNumber": "240 AA, 240FS AA",
+      "supportingLiteratureLabel": "",
+      "supportingLiteratureLink": ""
+    },
+    {
+      "ASTM": [
+        "ASTM D5056"
+      ],
+      "DIN": "",
+      "EN": "",
+      "GBTSHT": "",
+      "GOST": "",
+      "GPA": "",
+      "IP": "",
+      "ISO": "",
+      "UOP": "",
+      "crmProduct": "Flame AA",
+      "description": "Determination of trace metals in petroleum coke. Scaleable models for your workflow are also available on the 240 AA, 240FSAA, and 55B",
+      "image": "https://www.agilent.com/cs/publishingimages/280FS%20Primary%20Image.jpg",
+      "imageName": "",
+      "industry": "CrudeOil",
+      "market": "Refining",
+      "modelNumber": "280 FS AA",
+      "supportingLiteratureLabel": "",
+      "supportingLiteratureLink": ""
+    },
+    {
+      "ASTM": [
+        "ASTM D4951"
+      ],
+      "DIN": "",
+      "EN": "",
+      "GBTSHT": "",
+      "GOST": "",
+      "GPA": "",
+      "IP": "",
+      "ISO": "",
+      "UOP": "",
+      "crmProduct": "ICP-OES",
+      "description": "Determination of additive elements in lubricating oils.",
+      "image": "",
+      "imageName": "",
+      "industry": "CrudeOil",
+      "market": "Fuels",
+      "modelNumber": 5110,
+      "supportingLiteratureLabel": "",
+      "supportingLiteratureLink": ""
+    },
+    {
+      "ASTM": [
+        "ASTM D5184"
+      ],
+      "DIN": "",
+      "EN": "",
+      "GBTSHT": "",
+      "GOST": "",
+      "GPA": "",
+      "IP": "",
+      "ISO": "",
+      "UOP": "",
+      "crmProduct": "ICP-OES",
+      "description": "Determination of Aluminum and Silicon in fuel oils.",
+      "image": "https://www.agilent.com/cs/publishingimages/5110_ICP-OES_Front.jpg",
+      "imageName": "",
+      "industry": "CrudeOil",
+      "market": "Fuels",
+      "modelNumber": 5110,
+      "supportingLiteratureLabel": "",
+      "supportingLiteratureLink": ""
+    },
+    {
+      "ASTM": [
+        "ASTM D5708"
+      ],
+      "DIN": "",
+      "EN": "",
+      "GBTSHT": "",
+      "GOST": "",
+      "GPA": "",
+      "IP": "",
+      "ISO": "",
+      "UOP": "",
+      "crmProduct": "ICP-OES",
+      "description": "Determination of Nickel, Vanadium, and Iron in crude oil and residual fuels.",
+      "image": "https://www.agilent.com/cs/publishingimages/5110_ICP-OES_Front.jpg",
+      "imageName": "",
+      "industry": "CrudeOil",
+      "market": "Fuels",
+      "modelNumber": 5110,
+      "supportingLiteratureLabel": "",
+      "supportingLiteratureLink": ""
+    },
+    {
+      "ASTM": [
+        "ASTM D7111"
+      ],
+      "DIN": "",
+      "EN": "",
+      "GBTSHT": "",
+      "GOST": "",
+      "GPA": "",
+      "IP": "",
+      "ISO": "",
+      "UOP": "",
+      "crmProduct": "ICP-OES",
+      "description": "Determination of trace elements in middle distillates.",
+      "image": "https://www.agilent.com/cs/publishingimages/5110_ICP-OES_Front.jpg",
+      "imageName": "",
+      "industry": "CrudeOil",
+      "market": "Fuels",
+      "modelNumber": 5110,
+      "supportingLiteratureLabel": "",
+      "supportingLiteratureLink": ""
+    },
+    {
+      "ASTM": [
+        "ASTM D7303"
+      ],
+      "DIN": "",
+      "EN": "",
+      "GBTSHT": "",
+      "GOST": "",
+      "GPA": "",
+      "IP": "",
+      "ISO": "",
+      "UOP": "",
+      "crmProduct": "ICP-OES",
+      "description": "Determination of metals in lubricating greases.",
+      "image": "https://www.agilent.com/cs/publishingimages/5110_ICP-OES_Front.jpg",
+      "imageName": "",
+      "industry": "CrudeOil",
+      "market": "Fuels",
+      "modelNumber": 5110,
+      "supportingLiteratureLabel": "",
+      "supportingLiteratureLink": ""
+    },
+    {
+      "ASTM": [
+        "ASTM D7691"
+      ],
+      "DIN": "",
+      "EN": "",
+      "GBTSHT": "",
+      "GOST": "",
+      "GPA": "",
+      "IP": "",
+      "ISO": "",
+      "UOP": "",
+      "crmProduct": "ICP-OES",
+      "description": "Multielement analysis of crude oils.",
+      "image": "https://www.agilent.com/cs/publishingimages/5110_ICP-OES_Front.jpg",
+      "imageName": "",
+      "industry": "CrudeOil",
+      "market": "Refining",
+      "modelNumber": 5110,
+      "supportingLiteratureLabel": "",
+      "supportingLiteratureLink": ""
+    },
+    {
+      "ASTM": [
+        "ASTM Work Item #56841"
+      ],
+      "DIN": "",
+      "EN": "",
+      "GBTSHT": "",
+      "GOST": "",
+      "GPA": "",
+      "IP": "",
+      "ISO": "",
+      "UOP": "",
+      "crmProduct": "MP-AES",
+      "description": "Direct multi-elemental analysis of crude oils using the Agilent 4200/4210 Microwave Plasma-Atomic Emission Spectrometer",
+      "image": "https://firebasestorage.googleapis.com/v0/b/agilent-gc-standards.appspot.com/o/products%2F4210_MPAES.jpg?alt=media&token=cd0db710-477a-4880-bd69-e763e7f52ae0",
+      "imageName": "4210_MPAES.jpg",
+      "industry": "CrudeOil",
+      "market": "E&P and Refining",
+      "modelNumber": "Agilent Application Note: 5991-7104EN",
+      "supportingLiteratureLabel": "Direct multi-elemental analysis of crude oils using the Agilent 4200/4210 Microwave Plasma-Atomic Emission Spectrometer (PDF)",
+      "supportingLiteratureLink": "https://www.agilent.com/cs/library/applications/5991-7104EN.pdf"
+    },
+    {
+      "ASTM": [
+        "ASTM D8110"
+      ],
+      "DIN": "",
+      "EN": "",
+      "GBTSHT": "",
+      "GOST": "",
+      "GPA": "",
+      "IP": "",
+      "ISO": "",
+      "UOP": "",
+      "crmProduct": "ICP-MS(General)",
+      "description": "Model 7900 ICP-MS requires additional options for organic sample testing to be selected by customer specific application.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/agilent-gc-standards.appspot.com/o/products%2F7900%20ICP-MS%20facing%20right_small_ELIBRARY_558597_2017.tif?alt=media&token=d1dc40bf-aa26-485b-bd9e-f12cc43ef0ab",
+      "imageName": "",
+      "industry": "CrudeOil",
+      "market": "E&P, Refining and Fuels",
+      "modelNumber": "G8403A",
+      "supportingLiteratureLabel": "Crude Oil Trace Elemental Analysis Webinar ",
+      "supportingLiteratureLink": "https://www.agilent.com/en/training-events/eseminars/crude-oil-analysis"
+    },
+    {
+      "ASTM": [
+        "ASTM D1840"
+      ],
+      "DIN": "",
+      "EN": "",
+      "GBTSHT": "",
+      "GOST": "",
+      "GPA": "",
+      "IP": "",
+      "ISO": "",
+      "UOP": "",
+      "crmProduct": "UV-Vis",
+      "description": "Determination of naphthalene hydrocarbons in aviation turbine fuels.  Scaleable models for your workflow also available on the Cary 100, 300 and 4000",
+      "image": "",
+      "imageName": "",
+      "industry": "CrudeOil",
+      "market": "Fuels",
+      "modelNumber": "Cary 60",
+      "supportingLiteratureLabel": "",
+      "supportingLiteratureLink": ""
+    },
+    {
+      "ASTM": [
+        "ASTM D2008"
+      ],
+      "DIN": "",
+      "EN": "",
+      "GBTSHT": "",
+      "GOST": "",
+      "GPA": "",
+      "IP": "",
+      "ISO": "",
+      "UOP": "",
+      "crmProduct": "UV-Vis",
+      "description": "Test method for UV absorbance and absorptivity of petroleum products. Scaleable models for your workflow also available on the Cary 60, 300 and 4000",
+      "image": "",
+      "imageName": "",
+      "industry": "CrudeOil",
+      "market": "Fuels",
+      "modelNumber": "Cary 100",
+      "supportingLiteratureLabel": "",
+      "supportingLiteratureLink": ""
+    },
+    {
+      "ASTM": [
+        "ASTM D2269"
+      ],
+      "DIN": "",
+      "EN": "",
+      "GBTSHT": "",
+      "GOST": "",
+      "GPA": "",
+      "IP": "",
+      "ISO": "",
+      "UOP": "",
+      "crmProduct": "UV-Vis",
+      "description": "Test method for evaluation of white mineral oils. Scaleable models for your workflow also available on the Cary 100 and 60",
+      "image": "",
+      "imageName": "",
+      "industry": "CrudeOil",
+      "market": "Fuels",
+      "modelNumber": "Cary 300; Cary 4000",
+      "supportingLiteratureLabel": "",
+      "supportingLiteratureLink": ""
+    },
+    {
+      "ASTM": [
+        "Agilent Analyzer Configuration"
+      ],
+      "DIN": "",
+      "EN": "",
+      "GBTSHT": "",
+      "GOST": "",
+      "GPA": "",
+      "IP": "",
+      "ISO": "",
+      "UOP": "",
+      "crmProduct": "GC Analyzers\n",
+      "description": "Impurities in olefin monomers analyzer by PDHID",
+      "image": "https://firebasestorage.googleapis.com/v0/b/agilent-gc-standards.appspot.com/o/products%2F240MS-7890GC_ELIBRARY_381877_2012.jpg?alt=media&token=66284a96-8956-4191-9043-5ae55695ac76",
+      "imageName": "240MS-7890GC_ELIBRARY_381877_2012.jpg",
+      "industry": "Petrochemical",
+      "market": "Petrochemical",
+      "modelNumber": "7890-0237",
+      "supportingLiteratureLabel": "An Alternative Application for a Highly Oxygen-Selective Capillary GC Plot Column (PDF)",
+      "supportingLiteratureLink": "https://www.agilent.com/cs/library/applications/5990-4493EN.pdf"
+    },
+    {
+      "ASTM": [
+        "ASTM D7423"
+      ],
+      "DIN": "",
+      "EN": "",
+      "GBTSHT": "",
+      "GOST": "",
+      "GPA": "",
+      "IP": "",
+      "ISO": "",
+      "UOP": "",
+      "crmProduct": "GC Analyzers\n",
+      "description": "Trace oxygenates and hydrocarbons - ethylene analyzer",
+      "image": "https://firebasestorage.googleapis.com/v0/b/agilent-gc-standards.appspot.com/o/products%2F240MS-7890GC_ELIBRARY_381877_2012.jpg?alt=media&token=66284a96-8956-4191-9043-5ae55695ac76",
+      "imageName": "240MS-7890GC_ELIBRARY_381877_2012.jpg",
+      "industry": "Petrochemical",
+      "market": "Petrochemical",
+      "modelNumber": "7890-0341",
+      "supportingLiteratureLabel": "",
+      "supportingLiteratureLink": ""
+    },
+    {
+      "ASTM": [
+        "Agilent Analyzer Configuration"
+      ],
+      "DIN": "",
+      "EN": "",
+      "GBTSHT": "",
+      "GOST": "",
+      "GPA": "",
+      "IP": "",
+      "ISO": "",
+      "UOP": "",
+      "crmProduct": "GC Analyzers\n",
+      "description": "Low CO and CO2 in process gases with Nicat bypass to detector",
+      "image": "https://www.agilent.com/cs/publishingimages/product_7890B_226x191.jpg",
+      "imageName": "",
+      "industry": "Petrochemical",
+      "market": "Petrochemical",
+      "modelNumber": "7890-0355",
+      "supportingLiteratureLabel": "CO-CO2 Analyzers",
+      "supportingLiteratureLink": "https://www.agilent.com/en/products/gas-chromatography/gc-analyzers/gas-impurities-/co-co2-analyzers"
+    },
+    {
+      "ASTM": [
+        "Agilent Analyzer Configuration"
+      ],
+      "DIN": "",
+      "EN": "",
+      "GBTSHT": "",
+      "GOST": "",
+      "GPA": "",
+      "IP": "",
+      "ISO": "",
+      "UOP": "",
+      "crmProduct": "GC Analyzers\n",
+      "description": "Trace CO and CO2 in hydrogen and light gaseous hydrocarbons analyzer",
+      "image": "https://www.agilent.com/cs/publishingimages/product_7890B_226x191.jpg",
+      "imageName": "",
+      "industry": "Petrochemical",
+      "market": "Petrochemical",
+      "modelNumber": "7890-0366",
+      "supportingLiteratureLabel": "CO-CO2 Analyzers",
+      "supportingLiteratureLink": "https://www.agilent.com/en/products/gas-chromatography/gc-analyzers/gas-impurities-/co-co2-analyzers"
+    },
+    {
+      "ASTM": [
+        "Agilent Analyzer Configuration"
+      ],
+      "DIN": "",
+      "EN": "",
+      "GBTSHT": "",
+      "GOST": "",
+      "GPA": "",
+      "IP": "",
+      "ISO": "",
+      "UOP": "",
+      "crmProduct": "GC Analyzers\n",
+      "description": "Impurities in ethylene and propylene analyzer by PDHID",
+      "image": "https://www.agilent.com/cs/publishingimages/product_7890B_226x191.jpg",
+      "imageName": "",
+      "industry": "Petrochemical",
+      "market": "Petrochemical",
+      "modelNumber": "7890-0409",
+      "supportingLiteratureLabel": "",
+      "supportingLiteratureLink": "https://www.agilent.com/cs/publishingimages/product_7890B_226x191.jpg"
+    },
+    {
+      "ASTM": [
+        "Agilent Analyzer Configuration"
+      ],
+      "DIN": "",
+      "EN": "",
+      "GBTSHT": "",
+      "GOST": "",
+      "GPA": "",
+      "IP": "",
+      "ISO": "",
+      "UOP": "",
+      "crmProduct": "GC Analyzers\n",
+      "description": "Permanent Gases and Hydrocarbons",
+      "image": "https://firebasestorage.googleapis.com/v0/b/agilent-gc-standards.appspot.com/o/products%2F240MS-7890GC_ELIBRARY_381877_2012.jpg?alt=media&token=66284a96-8956-4191-9043-5ae55695ac76",
+      "imageName": "240MS-7890GC_ELIBRARY_381877_2012.jpg",
+      "industry": "Petrochemical",
+      "market": "Petrochemical",
+      "modelNumber": "7890-0610",
+      "supportingLiteratureLabel": "Analysis of Permanent Gases and Extended Hydrocarbons in Natural Gas and Natural Gas Liquids by Capillary Gas Chromatography (PDF)",
+      "supportingLiteratureLink": "https://www.agilent.com/cs/library/applications/5991-2886EN.pdf"
+    },
+    {
+      "ASTM": [
+        "ASTM D7423"
+      ],
+      "DIN": "",
+      "EN": "",
+      "GBTSHT": "",
+      "GOST": "",
+      "GPA": "",
+      "IP": "",
+      "ISO": "",
+      "UOP": "",
+      "crmProduct": "GC Analyzers\n",
+      "description": "Low oxygenates in hydrocarbons analyzer w. pneumatic type backflush",
+      "image": "https://firebasestorage.googleapis.com/v0/b/agilent-gc-standards.appspot.com/o/products%2F240MS-7890GC_ELIBRARY_381877_2012.jpg?alt=media&token=66284a96-8956-4191-9043-5ae55695ac76",
+      "imageName": "240MS-7890GC_ELIBRARY_381877_2012.jpg",
+      "industry": "Petrochemical",
+      "market": "Petrochemical",
+      "modelNumber": "G3445B#618",
+      "supportingLiteratureLabel": "An Alternative Application for a Highly Oxygen-Selective Capillary GC Plot Column (PDF)",
+      "supportingLiteratureLink": "https://www.agilent.com/cs/library/applications/5990-4493EN.pdf"
+    },
+    {
+      "ASTM": [
+        "Agilent Analyzer Configuration"
+      ],
+      "DIN": "",
+      "EN": "",
+      "GBTSHT": "",
+      "GOST": "",
+      "GPA": "",
+      "IP": "",
+      "ISO": "",
+      "UOP": "",
+      "crmProduct": "GC Analyzers\n",
+      "description": "Analyzer for low CO, CO2 in process gas with vent valve",
+      "image": "https://firebasestorage.googleapis.com/v0/b/agilent-gc-standards.appspot.com/o/products%2F240MS-7890GC_ELIBRARY_381877_2012.jpg?alt=media&token=66284a96-8956-4191-9043-5ae55695ac76",
+      "imageName": "240MS-7890GC_ELIBRARY_381877_2012.jpg",
+      "industry": "Petrochemical",
+      "market": "Petrochemical",
+      "modelNumber": "G3445B#646",
+      "supportingLiteratureLabel": "Agilent Permanent Gas and Trace Impurity Analyzer flyer (PDF)",
+      "supportingLiteratureLink": "https://www.agilent.com/cs/library/brochures/5991-5042EN%20Permanent%20gas%20analyzer%20flyer_LR.pdf"
+    },
+    {
+      "ASTM": [
+        "Agilent Analyzer Configuration"
+      ],
+      "DIN": "",
+      "EN": "",
+      "GBTSHT": "",
+      "GOST": "",
+      "GPA": "",
+      "IP": "",
+      "ISO": "",
+      "UOP": "",
+      "crmProduct": "GC Analyzers\n",
+      "description": "Analyzer for low level CO and CO2 in process gas ",
+      "image": "https://firebasestorage.googleapis.com/v0/b/agilent-gc-standards.appspot.com/o/products%2F240MS-7890GC_ELIBRARY_381877_2012.jpg?alt=media&token=66284a96-8956-4191-9043-5ae55695ac76",
+      "imageName": "240MS-7890GC_ELIBRARY_381877_2012.jpg",
+      "industry": "Petrochemical",
+      "market": "Petrochemical",
+      "modelNumber": "G3445B#647",
+      "supportingLiteratureLabel": "Agilent Permanent Gas and Trace Impurity Analyzer flyer (PDF)",
+      "supportingLiteratureLink": "https://www.agilent.com/cs/library/brochures/5991-5042EN%20Permanent%20gas%20analyzer%20flyer_LR.pdf"
+    },
+    {
+      "ASTM": [
+        "Work Item #55121"
+      ],
+      "DIN": "",
+      "EN": "",
+      "GBTSHT": "",
+      "GOST": "",
+      "GPA": "",
+      "IP": "",
+      "ISO": "",
+      "UOP": "",
+      "crmProduct": "GC/MSD Systems",
+      "description": "Impurities in ethylene and propylene by GC-MS",
+      "image": "https://www.agilent.com/cs/publishingimages/Arsine%20phosphine%20analyzer.jpg",
+      "imageName": "",
+      "industry": "Petrochemical",
+      "market": "Petrochemical",
+      "modelNumber": "M7474AA",
+      "supportingLiteratureLabel": "Analysis of Arsine and Phosphine in Ethylene and Propylene  (PDF)",
+      "supportingLiteratureLink": "https://www.agilent.com/cs/library/applications/5991-6967EN.pdf"
+    },
+    {
+      "ASTM": [
+        "Work Item #55121"
+      ],
+      "DIN": "",
+      "EN": "",
+      "GBTSHT": "",
+      "GOST": "",
+      "GPA": "",
+      "IP": "",
+      "ISO": "",
+      "UOP": "",
+      "crmProduct": "GC/MSD Systems",
+      "description": "Impurities in ethylene and propylene by GC-MS with permeation calibration device",
+      "image": "https://www.agilent.com/cs/publishingimages/Arsine%20phosphine%20analyzer.jpg",
+      "imageName": "",
+      "industry": "Petrochemical",
+      "market": "Petrochemical",
+      "modelNumber": "M7484AA",
+      "supportingLiteratureLabel": "Analysis of Arsine and Phosphine in Ethylene and Propylene  (PDF)",
+      "supportingLiteratureLink": "https://www.agilent.com/cs/library/applications/5991-6967EN.pdf"
+    },
+    {
+      "ASTM": [
+        "ASTM D3588"
+      ],
+      "DIN": "",
+      "EN": "",
+      "GBTSHT": "",
+      "GOST": [
+        "GOST 22667"
+      ],
+      "GPA": [
+        "GPA 2172"
+      ],
+      "IP": "",
+      "ISO": [
+        "ISO 6976"
+      ],
+      "UOP": "",
+      "crmProduct": "Micro GC, PRO Micro GC",
+      "description": "490 PRO Micro GC On-line Process Gas Analyzer, Software PRO Option #005. Various channel and accessory options are available. ",
+      "image": "https://firebasestorage.googleapis.com/v0/b/agilent-gc-standards.appspot.com/o/products%2F490%20Micro%20GC%20Quad%20Std_ELIBRARY_616768.jpg?alt=media&token=1e0875ee-8ee1-454f-aeec-5e1eb1e5916f",
+      "imageName": "490_Micro_GC.jpg",
+      "industry": "Petrochemical",
+      "market": "Petrochemical",
+      "modelNumber": "G3581A Option #005",
+      "supportingLiteratureLabel": "Agilent 490-PRO Micro GC for Process Monitoring (PDF)",
+      "supportingLiteratureLink": "https://www.agilent.com/cs/library/datasheets/public/5991-6056EN.pdf"
+    },
+    {
+      "ASTM": [
+        "ASTM D3588"
+      ],
+      "DIN": "",
+      "EN": "",
+      "GBTSHT": "",
+      "GOST": "",
+      "GPA": [
+        "GPA 2172"
+      ],
+      "IP": "",
+      "ISO": [
+        "ISO 6976"
+      ],
+      "UOP": "",
+      "crmProduct": "Micro GC, PRO Micro GC",
+      "description": "490 Micro GC Hydrocarbon Streams Gas Analyzer, EZ Reporter option #105. Various channel and accessory options are available",
+      "image": "https://firebasestorage.googleapis.com/v0/b/agilent-gc-standards.appspot.com/o/products%2F490%20Micro%20GC%20Quad%20Std_ELIBRARY_616768.jpg?alt=media&token=1e0875ee-8ee1-454f-aeec-5e1eb1e5916f",
+      "imageName": "490_Micro_GC.jpg",
+      "industry": "Petrochemical",
+      "market": "Petrochemical",
+      "modelNumber": "G3581A Option #105",
+      "supportingLiteratureLabel": "Agilent 490-PRO Micro GC for Process Monitoring (PDF)",
+      "supportingLiteratureLink": "https://www.agilent.com/cs/library/datasheets/public/5991-6056EN.pdf"
+    },
+    {
+      "ASTM": [
+        "ASTM D8110"
+      ],
+      "DIN": "",
+      "EN": "",
+      "GBTSHT": "",
+      "GOST": "",
+      "GPA": "",
+      "IP": "",
+      "ISO": "",
+      "UOP": "",
+      "crmProduct": "ICP-MS",
+      "description": "Model 7900 ICP-MS requires additional options for organic sample testing to be selected by customer specific application.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/agilent-gc-standards.appspot.com/o/products%2F7900%20ICP-MS%20facing%20right_small_ELIBRARY_558597_2017.tif?alt=media&token=d1dc40bf-aa26-485b-bd9e-f12cc43ef0ab",
+      "imageName": "",
+      "industry": "Petrochemical",
+      "market": "Petrochemical",
+      "modelNumber": "G8403A",
+      "supportingLiteratureLabel": "Crude Oil Trace Elemental Analysis Webinar",
+      "supportingLiteratureLink": "https://www.agilent.com/en/training-events/eseminars/crude-oil-analysis"
+    },
+    {
+      "ASTM": "",
+      "DIN": "",
+      "EN": [
+        "EN 14110:2003"
+      ],
+      "GBTSHT": "",
+      "GOST": "",
+      "GPA": "",
+      "IP": "",
+      "ISO": "",
+      "UOP": "",
+      "crmProduct": "GC Analyzer",
+      "description": "Determination of methanol content in biodiesel by headspace GC-FID",
+      "image": "https://www.agilent.com/cs/publishingimages/7697A_7890B_226x191.jpg",
+      "imageName": "",
+      "industry": "BioEnergy",
+      "market": "Bioenergy",
+      "modelNumber": "7890-0295",
+      "supportingLiteratureLabel": "Determination of Methanol Content in Biodiesel Using Agilent Select Biodiesel for Methanol with Headspace Sampling to EN-14110 (PDF)",
+      "supportingLiteratureLink": "https://www.agilent.com/cs/library/applications/5990-8984EN.pdf"
+    },
+    {
+      "ASTM": [
+        "Agilent Analyzer Configuration"
+      ],
+      "DIN": "",
+      "EN": "",
+      "GBTSHT": "",
+      "GOST": "",
+      "GPA": "",
+      "IP": "",
+      "ISO": "",
+      "UOP": "",
+      "crmProduct": "GC Analyzer",
+      "description": "Transformer oil gas analyzer (TOGA) - GC head space analyzer with pre-column backflush and catalyst bypass ",
+      "image": "https://www.agilent.com/cs/publishingimages/7697A_7890B_226x191.jpg",
+      "imageName": "",
+      "industry": "BioEnergy",
+      "market": "Energy Production",
+      "modelNumber": "7890-0552",
+      "supportingLiteratureLabel": "Agilent Transformer Oil Gas Analyzer flyer",
+      "supportingLiteratureLink": "https://www.agilent.com/cs/library/brochures/5991-5045EN%20TOGA%20flyer_LR.pdf"
+    },
+    {
+      "ASTM": [
+        "ASTM D3612 Method C"
+      ],
+      "DIN": "",
+      "EN": "",
+      "GBTSHT": "",
+      "GOST": "",
+      "GPA": "",
+      "IP": "",
+      "ISO": "",
+      "UOP": "",
+      "crmProduct": "GC Analyzer",
+      "description": "Enhanced transformer oil gas analyzer (TOGA) - GC headspace analyzer",
+      "image": "https://www.agilent.com/cs/publishingimages/7697A_7890B_226x191.jpg",
+      "imageName": "",
+      "industry": "BioEnergy",
+      "market": "Energy Production",
+      "modelNumber": "G3445B#571",
+      "supportingLiteratureLabel": "Agilent Transformer Oil Gas Analyzer flyer",
+      "supportingLiteratureLink": "https://www.agilent.com/cs/library/brochures/5991-5045EN%20TOGA%20flyer_LR.pdf"
+    },
+    {
+      "ASTM": [
+        "ASTM D6584"
+      ],
+      "DIN": "",
+      "EN": "",
+      "GBTSHT": "",
+      "GOST": "",
+      "GPA": "",
+      "IP": "",
+      "ISO": "",
+      "UOP": "",
+      "crmProduct": "GC Analyzer",
+      "description": "Determination of total monoglycerides, diglycerides, triglycerides, free and total glycerin in B100 biodiesel methyl esters by GC-FID",
+      "image": "https://firebasestorage.googleapis.com/v0/b/agilent-gc-standards.appspot.com/o/products%2F240MS-7890GC_ELIBRARY_381877_2012.jpg?alt=media&token=66284a96-8956-4191-9043-5ae55695ac76",
+      "imageName": "240MS-7890GC_ELIBRARY_381877_2012.jpg",
+      "industry": "BioEnergy",
+      "market": "Bioenergy",
+      "modelNumber": "G3445B#631",
+      "supportingLiteratureLabel": "Biodiesel according to ASTM D6584 (PDF)",
+      "supportingLiteratureLink": "https://www.agilent.com/cs/library/applications/A02347.pdf"
+    },
+    {
+      "ASTM": "",
+      "DIN": "",
+      "EN": [
+        "EN 14103:2011"
+      ],
+      "GBTSHT": "",
+      "GOST": "",
+      "GPA": "",
+      "IP": "",
+      "ISO": "",
+      "UOP": "",
+      "crmProduct": "GC Analyzer",
+      "description": "Determination of total FAME and linolenic methyl esters in biodiesel by GC-FID",
+      "image": "https://firebasestorage.googleapis.com/v0/b/agilent-gc-standards.appspot.com/o/products%2F240MS-7890GC_ELIBRARY_381877_2012.jpg?alt=media&token=66284a96-8956-4191-9043-5ae55695ac76",
+      "imageName": "240MS-7890GC_ELIBRARY_381877_2012.jpg",
+      "industry": "BioEnergy",
+      "market": "Bioenergy",
+      "modelNumber": "G3445B#633",
+      "supportingLiteratureLabel": "Determination of Total FAME and Linolenic Acid Methyl Esters in Biodiesel According to EN-14103 (PDF)",
+      "supportingLiteratureLink": "https://www.agilent.com/cs/library/applications/5990-8983EN.pdf"
+    },
+    {
+      "ASTM": "",
+      "DIN": "",
+      "EN": [
+        "EN 14105:2011"
+      ],
+      "GBTSHT": "",
+      "GOST": "",
+      "GPA": "",
+      "IP": "",
+      "ISO": "",
+      "UOP": "",
+      "crmProduct": "GC Analyzer",
+      "description": "Determination of free and total glycerol and mono-, di-, triglyceride content of biodiesel by GC-FID",
+      "image": "https://firebasestorage.googleapis.com/v0/b/agilent-gc-standards.appspot.com/o/products%2F240MS-7890GC_ELIBRARY_381877_2012.jpg?alt=media&token=66284a96-8956-4191-9043-5ae55695ac76",
+      "imageName": "240MS-7890GC_ELIBRARY_381877_2012.jpg",
+      "industry": "BioEnergy",
+      "market": "Bioenergy",
+      "modelNumber": "G3445B#634",
+      "supportingLiteratureLabel": "EN 14105 Using a Multi-Mode Inlet and Agilent J&W Select Biodiesel for Glycerides (PDF)",
+      "supportingLiteratureLink": "https://www.agilent.com/cs/library/applications/5991-3224EN.pdf"
+    },
+    {
+      "ASTM": "",
+      "DIN": "",
+      "EN": "",
+      "GBTSHT": [
+        "GB/T 7252-2001"
+      ],
+      "GOST": "",
+      "GPA": "",
+      "IP": "",
+      "ISO": "",
+      "UOP": "",
+      "crmProduct": "GC Analyzer",
+      "description": "Transformer oil gas analyzer (TOGA) (7 components)",
+      "image": "https://www.agilent.com/cs/publishingimages/7697A_7890B_226x191.jpg",
+      "imageName": "",
+      "industry": "BioEnergy",
+      "market": "Energy Production",
+      "modelNumber": "SP1-7890-0664",
+      "supportingLiteratureLabel": "Agilent Transformer Oil Gas Analyzer flyer",
+      "supportingLiteratureLink": "https://www.agilent.com/cs/library/brochures/5991-5045EN%20TOGA%20flyer_LR.pdf"
+    },
+    {
+      "ASTM": "",
+      "DIN": "",
+      "EN": "",
+      "GBTSHT": [
+        "GB/T 7252-2001"
+      ],
+      "GOST": "",
+      "GPA": "",
+      "IP": "",
+      "ISO": "",
+      "UOP": "",
+      "crmProduct": "GC Analyzer",
+      "description": "Transformer oil gas analyzer (TOGA) (customer specified up to 11 components)",
+      "image": "https://www.agilent.com/cs/publishingimages/7697A_7890B_226x191.jpg",
+      "imageName": "",
+      "industry": "BioEnergy",
+      "market": "Energy Production",
+      "modelNumber": "SP1-7890-0673",
+      "supportingLiteratureLabel": "Agilent Transformer Oil Gas Analyzer flyer",
+      "supportingLiteratureLink": "https://www.agilent.com/cs/library/brochures/5991-5045EN%20TOGA%20flyer_LR.pdf"
+    },
+    {
+      "ASTM": "",
+      "DIN": "",
+      "EN": "",
+      "GBTSHT": [
+        "GB/T 15263 & HJ 604"
+      ],
+      "GOST": "",
+      "GPA": "",
+      "IP": "",
+      "ISO": "",
+      "UOP": "",
+      "crmProduct": "GC Analyzer",
+      "description": "NMHC analyzer per GB/T 15263 & HJ 604",
+      "image": "",
+      "imageName": "",
+      "industry": "BioEnergy",
+      "market": "Energy Production",
+      "modelNumber": "SP1 7890-0679",
+      "supportingLiteratureLabel": "",
+      "supportingLiteratureLink": ""
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "User 1"
+    },
+    {
+      "id": 2,
+      "name": "User 2"
+    },
+    {
+      "id": 3,
+      "name": "User 3"
+    },
+    {
+      "id": 4,
+      "name": "User 4"
+    },
+    {
+      "id": 5,
+      "name": "User 5"
+    }
+  ],
+  "events": [
+    {
+      "type": "PRODUCT_VIEWED",
+      "payload": {
+        "userId": 1,
+        "productId": 1
+      }
+    },
+    {
+      "type": "PRODUCT_VIEWED",
+      "payload": {
+        "userId": 1,
+        "productId": 2
+      }
+    },
+    {
+      "type": "PRODUCT_VIEWED",
+      "payload": {
+        "userId": 2,
+        "productId": 1
+      }
+    },
+    {
+      "type": "PRODUCT_VIEWED",
+      "payload": {
+        "userId": 2,
+        "productId": 2
+      }
+    },
+    {
+      "type": "PRODUCT_VIEWED",
+      "payload": {
+        "userId": 3,
+        "productId": 4
+      }
+    },
+    {
+      "type": "QUOTE_REQUESTED",
+      "payload": {
+        "userId": 2,
+        "productId": 4
+      }
+    }
+  ]
+}

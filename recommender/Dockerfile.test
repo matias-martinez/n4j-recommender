@@ -1,0 +1,4 @@
+FROM neo4j:3.5
+ENV NEO4J_AUTH=neo4j/neo4jpass
+EXPOSE 7474
+EXPOSE 7687
