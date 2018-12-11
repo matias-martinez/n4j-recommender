@@ -2,7 +2,7 @@
   "name": "n4j-recommender",
   "version": "1.0.0",
   "description": "Product recommendation using a graph",
-  "main": "index.js",
+  "main": "recommender.js",
   "scripts": {
     "build-neo4j-test": "sudo docker build -t n4j-recommender/test -f ./Dockerfile.test .",
     "run-neo4j-test": "sudo docker run --publish=7474:7474 --publish=7687:7687 n4j-recommender/test",
@@ -27,10 +27,11 @@
   ],
   "keywords": [
     "neo4j",
-    "recommendation",
-    "firebase",
-    "analytics"
+    "recommendation"
   ],
-  "author": "matias-martinez",
+  "author": {
+    "name": "Matías Martínez",
+    "email": "martinezmatias@outlook.com"
+  },
   "license": "ISC"
 }
