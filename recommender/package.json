@@ -4,11 +4,12 @@
   "description": "Product recommendation using a graph",
   "main": "recommender.js",
   "scripts": {
-    "build-neo4j-test": "sudo docker build -t n4j-recommender/test -f ./Dockerfile.test .",
-    "run-neo4j-test": "sudo docker run --publish=7474:7474 --publish=7687:7687 n4j-recommender/test",
-    "build-and-run": "npm run build-neo4j-test && npm run run-neo4j-test",
-    "load-neo4j-test": "node test/resources/ingestor.js",
     "lint": "eslint .",
+    "neo4j:build:test": "sudo docker build -t n4j-recommender/test -f ./Dockerfile.test .",
+    "neo4j:build-and-run:test": "npm run neo4j:build:test && npm run neo4j:run:test",
+    "neo4j:load:test": "node test/resources/ingestor.js",
+    "neo4j:run:test": "sudo docker run --publish=7474:7474 --publish=7687:7687 n4j-recommender/test",
+    "neo4j:start:test": "concurrently \"npm run neo4j:build-and-run:test\" \"npm run neo4j:load:test\"",
     "test": "jest"
   },
   "dependencies": {
@@ -16,6 +17,7 @@
     "neode": "^0.2.10"
   },
   "devDependencies": {
+    "concurrently": "^4.1.0",
     "eslint": "^5.10.0",
     "eslint-config-airbnb-base": "^13.1.0",
     "eslint-plugin-import": "^2.14.0",

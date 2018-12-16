@@ -1,10 +1,13 @@
-require('dotenv')
-    .config();
-const neode = require('neode').fromEnv();
+const neode = require('neode');
 const {products, users, events} = require('./data.json');
+
+// Global constants.
+const MAX_RETRIES = 10;
 
 // Global variables.
 let globalProductId = 0;
+let retries = 0;
+let neo4j = null;
 
 /**
  * Exec Cypher inside a session.
@@ -13,7 +16,7 @@ let globalProductId = 0;
  * @returns {Promise<void>}
  */
 const runInSession = async (elements, runner) => {
-    const session = neode.driver.session();
+    const session = neo4j.driver.session();
     await Promise.all(elements.map(element => runner(session, element)));
     session.close();
     return Promise.resolve();
@@ -45,8 +48,28 @@ const createRelationships = (session, event) => {
         + '   RETURN r;', {userId, productId});
 };
 
-const ingestor = () => runInSession(users, createUser)
-    .then(() => runInSession(products, createProduct))
-    .then(() => runInSession(events, createRelationships));
+const ingestor = () => {
+    console.log('Running INGESTOR');
+    runInSession(users, createUser)
+        .then(() => runInSession(products, createProduct))
+        .then(() => runInSession(events, createRelationships));
+};
 
-ingestor();
+// Wait for Neo4J and run.
+
+const waitForConnection = async () => {
+    try {
+        retries++;
+        console.log('Trying to connect...');
+        neo4j = neode.fromEnv();
+        await neo4j.driver.session().run('MATCH (a) RETURN a;');
+        ingestor();
+    } catch (e) {
+        console.log(`Connection not available: ${retries}`);
+        if (retries < MAX_RETRIES) {
+            setTimeout(waitForConnection, 5000);
+        }
+    }
+};
+
+waitForConnection();
