@@ -1,5 +1,7 @@
 const neode = require('neode');
-const {products, users, events} = require('./data.json');
+const {
+    products, users, standards, events, conformity,
+} = require('./data.json');
 
 // Global constants.
 const MAX_RETRIES = 10;
@@ -22,7 +24,7 @@ const runInSession = async (elements, runner) => {
     return Promise.resolve();
 };
 
-const createProduct = (session, {market, industry, description}) => {
+const createProduct = async (session, {market, industry, description}) => {
     globalProductId += 1;
     return session.run('CREATE (p: Product ) '
         + 'SET p.market = {market}, '
@@ -40,19 +42,35 @@ const createUser = (session, {id, name}) => session.run('CREATE (u: User ) '
     + 'SET u.id = toInteger({id}), '
     + '    u.name = {name}', {id, name});
 
-const createRelationships = (session, event) => {
+const createUserProductRelationships = (session, event) => {
     const {payload: {userId, productId}, type} = event;
     return session.run(`${'MATCH (u:User), (p:Product)'
         + '   WHERE u.id = toInteger({userId}) and p.id = toInteger({productId})'
-        + '   CREATE (u)-[r:'}${type}]->(p)`
+        + '   MERGE (u)-[r:'}${type}]->(p)`
+        + '   ON CREATE SET r.times = 1'
+        + '   ON MATCH SET r.times = r.times +1'
         + '   RETURN r;', {userId, productId});
+};
+
+const createStandard = (session, {id, name}) => session.run('CREATE (s: Standard ) '
+    + 'SET s.id = toInteger({id}), '
+    + '    s.name = {name}', {id, name});
+
+const createProductStandardRelationships = (session, conformity) => {
+    const {payload: {productId, standardId}, type} = conformity;
+    return session.run(`${'MATCH (p:Product), (s: Standard)'
+        + '   WHERE p.id = toInteger({productId}) and s.id = toInteger({standardId})'
+        + '   MERGE (p)-[r:'}${type}]->(s)`
+        + '   RETURN r;', {productId, standardId});
 };
 
 const ingestor = () => {
     console.log('Running INGESTOR');
     runInSession(users, createUser)
         .then(() => runInSession(products, createProduct))
-        .then(() => runInSession(events, createRelationships));
+        .then(() => runInSession(standards, createStandard))
+        .then(() => runInSession(events, createUserProductRelationships))
+        .then(() => runInSession(conformity, createProductStandardRelationships));
 };
 
 // Wait for Neo4J and run.

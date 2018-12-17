@@ -4,8 +4,8 @@ const Engine = require('./Engine.js');
 
 // const web = require('./interface/web.js');
 class Recommender {
-    constructor() {
-        this.db = new Neode.fromEnv().withDirectory('./schema');
+    constructor(db) {
+        this.db = db;
         this.engine = new Engine(this.db);
         // instance methods.
         this.start = this.start.bind(this);
@@ -17,5 +17,9 @@ class Recommender {
     }
 }
 
-const recommender = new Recommender();
+/**
+ * Start the component.
+ */
+const db = new Neode.fromEnv().withDirectory('./schema');
+const recommender = new Recommender(db);
 recommender.start();

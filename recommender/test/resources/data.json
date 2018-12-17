@@ -1994,37 +1994,54 @@
       "name": "User 5"
     }
   ],
+  "standards": [
+    {
+      "id": 1,
+      "name": "GB/T 15263 & HJ 604"
+    },
+    {
+      "id": 2,
+      "name": "ASTM D1945"
+    }
+  ],
   "events": [
     {
-      "type": "PRODUCT_VIEWED",
+      "type": "VIEWED",
       "payload": {
         "userId": 1,
         "productId": 1
       }
     },
     {
-      "type": "PRODUCT_VIEWED",
+      "type": "VIEWED",
+      "payload": {
+        "userId": 1,
+        "productId": 1
+      }
+    },
+    {
+      "type": "VIEWED",
       "payload": {
         "userId": 1,
         "productId": 2
       }
     },
     {
-      "type": "PRODUCT_VIEWED",
+      "type": "VIEWED",
       "payload": {
         "userId": 2,
         "productId": 1
       }
     },
     {
-      "type": "PRODUCT_VIEWED",
+      "type": "VIEWED",
       "payload": {
         "userId": 2,
         "productId": 2
       }
     },
     {
-      "type": "PRODUCT_VIEWED",
+      "type": "VIEWED",
       "payload": {
         "userId": 3,
         "productId": 4
@@ -2035,6 +2052,29 @@
       "payload": {
         "userId": 2,
         "productId": 4
+      }
+    }
+  ],
+  "conformity": [
+    {
+      "type": "CONFORMS",
+      "payload": {
+        "productId": 2,
+        "standardId": 1
+      }
+    },
+    {
+      "type": "CONFORMS",
+      "payload": {
+        "productId": 3,
+        "standardId": 1
+      }
+    },
+    {
+      "type": "CONFORMS",
+      "payload": {
+        "productId": 3,
+        "standardId": 2
       }
     }
   ]

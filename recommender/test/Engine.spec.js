@@ -10,9 +10,20 @@ describe('engine', () => {
     it('should export a recommend function', () => {
         expect(engine.recommend).toBeDefined();
     });
+});
 
-    it('should get an user', async () => {
-        const user = await engine.getUser(1);
-        expect(user.get('id')).toBe(1);
+describe('engine.findSimilarUsers', () => {
+    it('should return at least one recommendation', async () => {
+        const similarUsers = await engine.findSimilarUsers(2);
+        expect(similarUsers).toBeDefined();
+        expect(similarUsers.length > 0).toBe(true);
+    });
+});
+
+describe('engine.recommend', () => {
+    it('should return at least one recommendation', async () => {
+        const similarProducts = await engine.recommend(2);
+        expect(similarProducts).toBeDefined();
+        expect(similarProducts.length > 0).toBe(true);
     });
 });
